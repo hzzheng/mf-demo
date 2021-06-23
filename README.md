@@ -13,7 +13,7 @@
     └── vue        // 微应用（vue 应用）
 ```
 
-### 安装所有项目依赖
+### 安装依赖
 
 ```bash
 npm install
@@ -26,7 +26,7 @@ npm run bootstrap
 ```
 
 
-### 本地运行所有应用
+### 本地运行
 
 ```bash
 npm start
