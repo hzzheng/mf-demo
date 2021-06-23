@@ -2,6 +2,7 @@
 
 ### 目录说明
 
+```
 ├── README.md
 ├── lerna.json
 ├── package.json
@@ -10,19 +11,24 @@
     ├── purehtml   // 微应用（纯 html 应用）
     ├── react      // 微应用 (react 应用)
     └── vue        // 微应用（vue 应用）
+```
 
 ### 安装所有项目依赖
 
-```
+```bash
 npm install
+```
 
+then:
+
+```bash
 npm run bootstrap
 ```
 
 
 ### 本地运行所有应用
 
-```
+```bash
 npm start
 ```
 
