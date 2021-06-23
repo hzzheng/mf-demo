@@ -3,7 +3,8 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"start": "rescripts start"
+		"start": "rescripts start",
+		"build": "rescripts build"
 	},
 	"dependencies": {
 		"antd": "^3.25.2",
